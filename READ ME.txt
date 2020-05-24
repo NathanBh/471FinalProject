@@ -1,0 +1,5 @@
+====== READ ME ======
+1. Load the 471.sql database
+2. Run on locahost server
+3. Have a running mySQL and PHP installed
+4. START FROM index.php
